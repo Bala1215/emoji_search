@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import './App.css'
 import emojiData from './emojiData.json' 
 //this json file contains an array of objects which holds a data about "emoji"  
 
